@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/frontsideair
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://6nok.org
+  * I am frontsideair (https://keybase.io/frontsideair) on keybase.
+  * I have a public key ASAPGnaC_3WM2q986wv9RYI23GHLA7eJVZ11fbdqFt0ylwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204d6b03a2567057d0b23a2a26db931272b093b3381e0fdb6dc694f0b44901f74f0a",
+      "host": "keybase.io",
+      "kid": "01200f1a7682ff758cdaaf7ceb0bfd458236dc61cb03b789559d757db76a16dd32970a",
+      "uid": "19679b2f2fb232fc1a31ae94fceae300",
+      "username": "frontsideair"
+    },
+    "merkle_root": {
+      "ctime": 1513540861,
+      "hash": "633440e5121ad6985ca4e18108cad95be7d9edddaa164084eff0761fde3d6cf829f119da8a9d384ba25c0e177ee7323f4746972c8cfde993c96c3a308330b223",
+      "hash_meta": "b04d6a9ac2bddd9d34eeaedf1fbc31a18cf3ca0ba063d36719585d24f91472cb",
+      "seqno": 1830107
+    },
+    "service": {
+      "hostname": "6nok.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1513540920,
+  "expire_in": 504576000,
+  "prev": "e716f5474ee0e6d9db9ed8b15e8a22d911338b9e1fbaa94135d7bd1491b9899c",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDxp2gv91jNqvfOsL/UWCNtxhywO3iVWddX23ahbdMpcKp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNGQ2YjAzYTI1NjcwNTdkMGIyM2EyYTI2ZGI5MzEyNzJiMDkzYjMzODFlMGZkYjZkYzY5NGYwYjQ0OTAxZjc0ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGYxYTc2ODJmZjc1OGNkYWFmN2NlYjBiZmQ0NTgyMzZkYzYxY2IwM2I3ODk1NTlkNzU3ZGI3NmExNmRkMzI5NzBhIiwidWlkIjoiMTk2NzliMmYyZmIyMzJmYzFhMzFhZTk0ZmNlYWUzMDAiLCJ1c2VybmFtZSI6ImZyb250c2lkZWFpciJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMzU0MDg2MSwiaGFzaCI6IjYzMzQ0MGU1MTIxYWQ2OTg1Y2E0ZTE4MTA4Y2FkOTViZTdkOWVkZGRhYTE2NDA4NGVmZjA3NjFmZGUzZDZjZjgyOWYxMTlkYThhOWQzODRiYTI1YzBlMTc3ZWU3MzIzZjQ3NDY5NzJjOGNmZGU5OTNjOTZjM2EzMDgzMzBiMjIzIiwiaGFzaF9tZXRhIjoiYjA0ZDZhOWFjMmJkZGQ5ZDM0ZWVhZWRmMWZiYzMxYTE4Y2YzY2EwYmEwNjNkMzY3MTk1ODVkMjRmOTE0NzJjYiIsInNlcW5vIjoxODMwMTA3fSwic2VydmljZSI6eyJob3N0bmFtZSI6IjZub2sub3JnIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzcifSwiY3RpbWUiOjE1MTM1NDA5MjAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZTcxNmY1NDc0ZWUwZTZkOWRiOWVkOGIxNWU4YTIyZDkxMTMzOGI5ZTFmYmFhOTQxMzVkN2JkMTQ5MWI5ODk5YyIsInNlcW5vIjoyNiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBZ1W7KH/6C4qiOuVwEt2pDtcv1dc8eWq0L5D73PdUelnoBgsxh5ZkFHfqf9OCDQkdU9Mqn+v2Cp8jyIIBCoX8GqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgC3Qdr8GwqCAd9ZXOwP+xEJmtdZDyOLbSUYAh8KvJHsqjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/frontsideair
+
+==================================================================
